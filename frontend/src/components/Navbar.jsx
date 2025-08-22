@@ -39,6 +39,12 @@ const Navbar = () => {
       </ul>
 
       <div className='flex items-center gap-4 '>
+
+        {/* --------- Admin Button --------- */}
+        <a href="https://presobo-admin.onrender.com" target="_blank" rel="noopener noreferrer">
+          <button className='bg-white text-primary border border-primary px-8 py-3 rounded-full font-light hidden md:block hover:bg-primary hover:text-white transition-all duration-300'>Admin Login</button>
+        </a>
+        
         {
           token && userData
             ? <div className='flex items-center gap-2 cursor-pointer group relative'>
