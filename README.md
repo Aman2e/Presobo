@@ -24,7 +24,8 @@ Scalable Backend: RESTful APIs to handle multiple concurrent requests.
 
 
 
-Live Demo ✈️= https://presobo-frontend.onrender.com/
+Live Demo ✈️ patient panel = https://presobo-frontend.onrender.com/
+             admin panel   = https://presobo-admin.onrender.com/
 
 Presobo Live Deployment
 
